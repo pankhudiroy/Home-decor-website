@@ -6,16 +6,17 @@ This project demonstrates expertise in creating luxury user experiences with cle
 ---
 
 ## 📸 Preview
+Desktop View-
 ![Desktop View](screenshots/home-decor-website.png)
+
+Mobile View-
 ![Mobile View](screenshots/home-decor-mobile-view.png)
 
-*(Add your actual screenshots in a `screenshots/` folder and update the file names above.)*
 
 ---
 
 ## 🚀 Live Demo
 [https://home-decors.netlify.app/](https://home-decors.netlify.app/)  
-*(Replace with your actual Netlify/Vercel/GitHub Pages link once deployed.)*
 
 ---
 
