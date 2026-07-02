@@ -6,11 +6,9 @@ This project demonstrates expertise in creating luxury user experiences with cle
 ---
 
 ## 📸 Preview
-Desktop View-
-![Desktop View](screenshots/home-decor-website.png)
-
-Mobile View-
 ![Mobile View](screenshots/home-decor-mobile-view.png)
+
+![Desktop View](screenshots/home-decor-website.png)
 
 
 ---
