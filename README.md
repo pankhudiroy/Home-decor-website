@@ -14,7 +14,7 @@ This project demonstrates expertise in creating luxury user experiences with cle
 ---
 
 ## 🚀 Live Demo
-[https://home-decors.netlify.app/](https://home-decors.netlify.app/)  
+[https://home-decor123.netlify.app/](https://home-decor123.netlify.app/)  
 
 ---
 
